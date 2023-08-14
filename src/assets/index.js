@@ -20,15 +20,31 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import aws from './tech/aws.png'
+import C from './tech/C.png'
+import Cpp from './tech/Cpp.png'
+import Python from './tech/Python.png'
+import gcp from './tech/gcp.png'
+import swift from './tech/swift.png'
+import Firebase from './tech/Firebase.png'
+import SQL from './tech/SQL.png'
+
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import layer5 from './company/layer5.png'
+import hacktoberfest from './company/hacktoberfest.png'
+import Infosys from './company/Infosys.png'
+import cncf from './company/cncf.png'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import Wanderly from "./wanderly.png"
+import TalkingSigns from "./TalkingSigns.png"
 
 export {
   logo,
@@ -59,4 +75,18 @@ export {
   carrent,
   jobit,
   tripguide,
+  aws,
+  gcp,
+  Python,
+  swift,
+  Cpp,
+  C,
+  Infosys,
+  layer5,
+  cncf,
+  hacktoberfest,
+  Firebase,
+  SQL,
+  Wanderly,
+  TalkingSigns
 };
